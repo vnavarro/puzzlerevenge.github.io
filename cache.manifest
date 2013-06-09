@@ -1,0 +1,7 @@
+CACHE MANIFEST
+# v1 - 2013-06
+# This is a comment.
+/index.html
+/assets/fonts_css/*
+/assets/images/*.png
+/assets/sounds/*.ogg

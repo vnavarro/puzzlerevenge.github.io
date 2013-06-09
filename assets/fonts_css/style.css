@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'oval_singleregular';
+    src: url('oval_single-webfont.eot');
+    src: url('oval_single-webfont.eot?#iefix') format('embedded-opentype'),
+         url('oval_single-webfont.woff') format('woff'),
+         url('oval_single-webfont.ttf') format('truetype'),
+         url('oval_single-webfont.svg#oval_singleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.fonte01{
+	font-family:'oval_singleregular';
+	font-size:36px;
+   color:#FF0;
+   text-shadow: 1px 1px 0px #03c,
+    -1px -1px 0px #03c,
+	1px -1px 0px #03c,
+    -1px 1px 0px #03c;
+}
+	
+	

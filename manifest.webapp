@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Revenge",
+  "description": "Puzzle Revenge!",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Rogerio Renno Cavalcanti e Vitor Navarro",
+    "url": "http://vnavarro.com.br"
+  },
+  "icons": {
+    "128": "/assets/images/icone.png"
+  },  
+  "fullscreen":"true",
+  "default_locale": "en",
+  "orientation": ["portrait"],
+  "appcache_path": "/cache.manifest"
+}
